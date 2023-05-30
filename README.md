@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmh1293
-- 👀 I’m interested in javascript, c#
-- 🌱 I’m currently learning javascript, c#
+- 👀 I’m interested in c#
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on nothing
 - 📫 tmh.101293@gmail.com
 
